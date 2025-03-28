@@ -1,0 +1,102 @@
+{
+    "s1": {
+        "dropout": 2,
+        "decay": 3,
+        "lr": 3,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 2,
+        "n_lay": 2,
+        "best_loss": 0.37909388542175293
+    },
+    "s2": {
+        "dropout": 1,
+        "decay": 3,
+        "lr": 3,
+        "hid_lay": 2,
+        "K": 0,
+        "seed": 99,
+        "n_lay": 2,
+        "best_loss": 0.38114693760871887
+    },
+    "s3": {
+        "dropout": 0,
+        "decay": 0,
+        "lr": 3,
+        "hid_lay": 2,
+        "K": 0,
+        "seed": 335,
+        "n_lay": 2,
+        "best_loss": 0.3818480670452118
+    },
+    "s4": {
+        "dropout": 0,
+        "decay": 1,
+        "lr": 2,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 95,
+        "n_lay": 2,
+        "best_loss": 0.28464680910110474
+    },
+    "s5": {
+        "dropout": 0,
+        "decay": 0,
+        "lr": 2,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 4,
+        "n_lay": 2,
+        "best_loss": 0.35087472200393677
+    },
+    "s6": {
+        "dropout": 0,
+        "decay": 0,
+        "lr": 3,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 2,
+        "n_lay": 2,
+        "best_loss": 0.38962697982788086
+    },
+    "s7": {
+        "dropout": 1,
+        "decay": 1,
+        "lr": 3,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 4,
+        "n_lay": 2,
+        "best_loss": 0.38945817947387695
+    },
+    "s8": {
+        "dropout": 1,
+        "decay": 3,
+        "lr": 3,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 3,
+        "n_lay": 2,
+        "best_loss": 0.39238840341567993
+    },
+    "s9": {
+        "dropout": 2,
+        "decay": 3,
+        "lr": 3,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 3,
+        "n_lay": 2,
+        "best_loss": 0.39104199409484863
+    },
+    "s10": {
+        "dropout": 0,
+        "decay": 0,
+        "lr": 3,
+        "hid_lay": 3,
+        "K": 0,
+        "seed": 4,
+        "n_lay": 2,
+        "best_loss": 0.3933718502521515
+    }
+}

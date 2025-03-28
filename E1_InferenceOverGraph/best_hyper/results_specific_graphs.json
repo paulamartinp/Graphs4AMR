@@ -1,0 +1,1 @@
+[{"sigma": 3.5, "threshold_amr": 0.6, "threshold_noamr": 0.8999999999999999, "ROC-AUC": 57.3574, "I": 0.01}, {"sigma": 5.5, "threshold_amr": 0.7999999999999999, "threshold_noamr": 0.7, "ROC-AUC": 57.3134, "I": 0.1}, {"sigma": 4.5, "threshold_amr": 0.7, "threshold_noamr": 0.8999999999999999, "ROC-AUC": 57.5851, "I": 0.1}]
